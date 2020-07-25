@@ -1,0 +1,27 @@
+.kix-appview-editor{
+    background-color: black;
+}
+
+/*Ruler*/
+.docs-ruler-background{
+    background: #1a1b1c;
+}
+.docs-ruler-background-inner{
+    background: #313336;
+}
+#kix-horizontal-ruler{
+    background: black;
+}
+#kix-vertical-ruler{
+    background: red;
+}
+
+#docs-menubars div{
+    color:#979a9c;
+}
+.companion-app-switcher-container{
+    background: #1a1b1c;
+}
+#navigation-widget-bottom-fade{
+    display: none;
+}
