@@ -3,7 +3,7 @@ Black CSS theme for google docs
 
 Alright...
 
-so if you have a browser that supports chrome extensions, you need to install **Amino CSS**
+so if you have a browser that supports chrome extensions, you need to install **Amino CSS.**
 Link: https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf?hl=en
 
 Then go to https://docs.google.com
